@@ -1,0 +1,7 @@
+{
+  "name": "Chaos Chess",
+  "description": "Premium 2D chess strategy game featuring classic chess and 8 chaotic game modes with mutations, dragons, mystery pieces, champions, and board events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
